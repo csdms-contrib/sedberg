@@ -1,0 +1,19 @@
+68.0	latitude_of_fjord
+650.0	h_front=height_of_ice_front_in_metres				
+4600.0	w_front=width_of_ice_front_in_metres	
+5000.0	w_fjord=width_of_fjord_in_metres	
+50.	v_front=velocity_of_front_in_m/day	    
+550.0	h_water=height_of_water	  
+3.0	h_basal_sediment=thickness_of_basal_sediment_layer   
+0.28	C_basal_i[0]initial_basal_concentrations_of_each_particle_fraction
+0.00085	C_englacial_i_fraction_by_volume	
+-5000.0	y_f=position_of_ice_front(m)
+2.0	surface_slope_in_degrees
+2700.	density_single_grain_sediment_inkgm3
+1700. density_when_deposited_inkgm3
+27.	Browns_calving_const_a-1
+1	SeasonalCalvingScenario:0=6timesinsummer,1=summer_only,2=sikussakbreakup(all_at_once),3=const_all_year
+16.66	annual_berg_vol=calvingrate_km3/yr
+5.548	mu_mean_of_normal_dist_for_lognormal_iceberg_size_dist
+0.521	sigma_standard_deviation_of_normal_dist_for_lognormal_iceberg_size_dist
+
