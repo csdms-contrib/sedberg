@@ -1,0 +1,7 @@
+10.	//number_of_years_sedimentation_recorded_(spin_up_time_added)
+730.0	spin_up_time_in_days
+100.0	dx//xandy-direction_step_in_metres
+1.	dz 
+1	Do_you_want_to_print_sediment_file?_1=yes,0=no
+
+

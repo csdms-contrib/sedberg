@@ -1,0 +1,5 @@
+0.54	amplitude_in_km/hour(15cm/s)
+0.2	Z_var_in_km
+12.	T_var_in_hours
+0.072	delta_v_in_km/hour
+1.570796327	eta_v_phase_diff_ebb_flood_vel
